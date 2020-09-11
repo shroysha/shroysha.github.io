@@ -34,8 +34,3 @@
 	path = scada
 	url = https://github.com/shroysha/scada.git
 	branch = master
-
-[submodule "private"]
-    path = private
-    url = https://github.com/shroysha/private.git
-    branch = master
