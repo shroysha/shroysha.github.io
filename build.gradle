@@ -1,0 +1,24 @@
+buildscript {
+apply from: "dev.shroysha.gradle"
+
+}
+
+plugins {
+id("dev.shroysha.plugin")
+id("base")
+id("idea")
+id("org.springframework.boot") version "2.2.4.RELEASE" apply false
+id("io.spring.dependency-management") version "1.0.9.RELEASE" apply false
+id("io.freefair.lombok") version "5.0.0-rc4" apply false
+
+}
+
+repositories {
+mavenCentral()
+gradlePluginPortal()
+
+}
+
+dependencies {
+
+}

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7ce41f7-68b6-4bc3-919f-3f65aee18cd9" name="Default" comment="added descriptions&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;">
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/private/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/chatroom">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/archive/digitalclock">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shawn Shroyer &lt;shroysha@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZbIJmwy0MkBJJCUyPLh9erw9DM" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="kotlin.migration.detection.enabled" value="false" />
+    <property name="kotlin.use.new.inference.for.ide.analysis.v2" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.control-computer.control-computer-app-client.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.control.computer.app.client.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.chatroom.chatroom-war.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.chatroom.war.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.control-computer.control-computer-war.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.control.computer.war.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.glyphs.glyphs-app-client.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.glyphs.app.client.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.glyphs.glyphs-war.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.glyphs.war.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.pokemon.pokemon-app-client.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.pokemon.app.client.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.pokemon.pokemon-war.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.pokemon.war.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.scada.scada-app-client.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.scada.app.client.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.scada.scada-war.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.scada.war.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dev.shroysha.chatroom.chatroom-app-client.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.shroysha.chatroom.app.client.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7ce41f7-68b6-4bc3-919f-3f65aee18cd9" name="Default" comment="" />
+      <created>1585101026481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585101026481</updated>
+      <workItem from="1585101308145" duration="104000" />
+      <workItem from="1585101436694" duration="81000" />
+      <workItem from="1585101559492" duration="471000" />
+      <workItem from="1585102215820" duration="1677000" />
+      <workItem from="1585104027258" duration="686000" />
+      <workItem from="1585360856300" duration="37000" />
+      <workItem from="1585774800651" duration="127000" />
+      <workItem from="1585774952774" duration="87000" />
+      <workItem from="1585775047322" duration="31000" />
+      <workItem from="1585775139691" duration="1313000" />
+      <workItem from="1586317581777" duration="4258000" />
+      <workItem from="1586726506678" duration="182000" />
+      <workItem from="1586726821876" duration="55000" />
+      <workItem from="1586726909525" duration="280000" />
+      <workItem from="1586727241629" duration="1213000" />
+      <workItem from="1586728506621" duration="71000" />
+      <workItem from="1586728581608" duration="440000" />
+      <workItem from="1586729039439" duration="1469000" />
+      <workItem from="1586986969562" duration="36000" />
+      <workItem from="1586987035101" duration="1001000" />
+      <workItem from="1587172084312" duration="6000" />
+      <workItem from="1587245627728" duration="2294000" />
+      <workItem from="1587332007047" duration="139000" />
+      <workItem from="1587332178514" duration="1590000" />
+      <workItem from="1587434464811" duration="3000" />
+      <workItem from="1588102525750" duration="4333000" />
+      <workItem from="1588269950818" duration="62000" />
+      <workItem from="1591319541778" duration="396000" />
+      <workItem from="1591319951661" duration="1217000" />
+      <workItem from="1594801572486" duration="17000" />
+      <workItem from="1594802044125" duration="595000" />
+      <workItem from="1595486768878" duration="3791000" />
+      <workItem from="1595884100701" duration="539000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixes">
+      <created>1586728675467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586728675467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixes&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;">
+      <created>1586729136284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586729136284</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixes&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;">
+      <created>1586729257761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586729257761</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixes&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;">
+      <created>1586729268653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586729268653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixes&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;">
+      <created>1586987429167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586987429167</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added descriptions&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;">
+      <created>1595488507923</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595488507923</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/py/gmod_math" />
+      <path value="$PROJECT_DIR$/py/openaigym_2048" />
+      <path value="$PROJECT_DIR$/py/openaigym_stocks" />
+      <path value="$PROJECT_DIR$/py/openaigym-2048" />
+      <path value="$PROJECT_DIR$/py/openaigym-stocks" />
+      <path value="$PROJECT_DIR$/py/stocks-tensorflow-gym" />
+      <path value="$PROJECT_DIR$/py/t48-tensorflow-gym" />
+      <path value="$PROJECT_DIR$/py/gmod-math" />
+      <path value="$PROJECT_DIR$/py/stocks-gym-tensorflow" />
+      <path value="$PROJECT_DIR$/help" />
+    </ignored-roots>
+    <MESSAGE value="fixes" />
+    <MESSAGE value="fixes&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;" />
+    <MESSAGE value="added descriptions&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added descriptions&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="127" key="#Project_Structure" timestamp="1595884397668">
+      <screen x="0" y="22" width="1680" height="942" />
+    </state>
+    <state x="440" y="127" key="#Project_Structure/0.22.1680.942@0.22.1680.942" timestamp="1595884397668" />
+    <state x="371" y="112" key="RollbackChangesDialog" timestamp="1598072323559">
+      <screen x="0" y="22" width="1680" height="942" />
+    </state>
+    <state x="371" y="112" key="RollbackChangesDialog/0.22.1680.942@0.22.1680.942" timestamp="1598072323559" />
+    <state x="349" y="132" key="SettingsEditor" timestamp="1599843690163">
+      <screen x="0" y="22" width="1680" height="942" />
+    </state>
+    <state x="349" y="132" key="SettingsEditor/0.22.1680.942@0.22.1680.942" timestamp="1599843690163" />
+    <state x="172" y="22" key="new project wizard" timestamp="1598146852823">
+      <screen x="0" y="22" width="1680" height="942" />
+    </state>
+    <state x="172" y="22" key="new project wizard/0.22.1680.942@0.22.1680.942" timestamp="1598146852823" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+[submodule "archive"]
+	path = archive
+	url = https://github.com/shroysha/archive.git
+	branch = master
+[submodule "chatroom"]
+	path = chatroom
+	url = https://github.com/shroysha/chatroom.git
+	branch = master
+[submodule "control-computer"]
+	path = control-computer
+	url = https://github.com/shroysha/control-computer.git
+	branch = master
+[submodule "control-projector"]
+	path = control-projector
+	url = https://github.com/shroysha/control-projector.git
+	branch = master
+[submodule "glyphs"]
+	path = glyphs
+	url = https://github.com/shroysha/glyphs.git
+	branch = master
+[submodule "pokemon"]
+	path = pokemon
+	url = https://github.com/shroysha/pokemon.git
+	branch = master
+[submodule "pong"]
+	path = pong
+	url = https://github.com/shroysha/pong.git
+	branch = master
+[submodule "py"]
+	path = py
+	url = https://github.com/shroysha/py.git
+	branch = master
+[submodule "scada"]
+	path = scada
+	url = https://github.com/shroysha/scada.git
+	branch = master
+
+[submodule "private"]
+    path = private
+    url = https://github.com/shroysha/private.git
+    branch = master

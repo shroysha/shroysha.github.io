@@ -1,0 +1,20 @@
+plugins {
+    id("java-gradle-plugin")
+}
+
+description = "dev.shroysha buildSrc"
+version = "1.0-SNAPSHOT"
+
+repositories {
+    mavenCentral()
+    gradlePluginPortal()
+}
+
+gradlePlugin {
+    plugins {
+        create("myPlugin") {
+            id = "dev.shroysha.plugin"
+            implementationClass = "dev.shroysha.buildSrc.DevShroyshaPlugin"
+        }
+    }
+}

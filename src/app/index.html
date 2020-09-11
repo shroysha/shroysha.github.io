@@ -1,0 +1,69 @@
+<html>
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+
+<link rel="stylesheet" type="text/css" href="index.css">
+
+    <body>
+
+      <div class="container">
+        <div id="header_wrap" class="outer">
+          <header class="inner">
+            <a id="forkme_banner" href="https://github.com/shroysha/shroysha.github.io">View on GitHub</a>
+
+            <h1 id="project_title">shroysha.github.io</h1>
+            <h2 id="project_tagline">Code Portfolio -- Shawn Shroyer</h2>
+
+
+          </header>
+      </div>
+
+        <div id="treeBox" class="sidenav">
+
+          <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#projcts">Projects</a></li>
+            <li><a data-toggle="tab" href="#skills">Skills</a></li>
+          </ul>
+
+          <div class="tab-content">
+            <div id="projects" class="tab-pane fade in active">
+               <button onclick="setReadmeFrameLoc(event, 'test.html')">Set</button>
+            </div>
+            <div id="skills" class="tab-pane fade">
+              <h3>Menu 1</h3>
+              <p>Some content in menu 1.</p>
+            </div>
+            <div id="menu2" class="tab-pane fade">
+              <h3>Menu 2</h3>
+              <p>Some content in menu 2.</p>
+            </div>
+          </div>
+
+
+        </div>
+
+        <iframe name="readmeFrame" id="readmeFrame" src="./test2.html"></iframe>
+
+
+
+      </div>
+
+    </body>
+
+
+      <script>
+        function setReadmeFrameLoc(event, loc) {
+          console.log('hi')
+
+          document.getElementById('readmeFrame').src = loc;
+        }
+      </script>
+
+</html>
