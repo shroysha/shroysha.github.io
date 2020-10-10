@@ -28,8 +28,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7ce41f7-68b6-4bc3-919f-3f65aee18cd9" name="Default" comment="added descriptions&#10;&#10;Signed-off-by: Shawn Shroyer &lt;shroysha@gmail.com&gt;">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/private/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/private/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive" beforeDir="false" afterPath="$PROJECT_DIR$/archive" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/digitalclock" beforeDir="false" afterPath="$PROJECT_DIR$/archive/digitalclock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/digitalclock/dev.shroysha.archive.digitalclock.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/digitalclock/dev.shroysha.archive.digitalclock.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/facebookrss" beforeDir="false" afterPath="$PROJECT_DIR$/archive/facebookrss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/facebookrss/dev.shroysha.archive.facebookrss.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/facebookrss/dev.shroysha.archive.facebookrss.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/googler" beforeDir="false" afterPath="$PROJECT_DIR$/archive/googler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/googler/dev.shroysha.archive.googler.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/googler/dev.shroysha.archive.googler.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/hiddenfiletoggle" beforeDir="false" afterPath="$PROJECT_DIR$/archive/hiddenfiletoggle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/hiddenfiletoggle/dev.shroysha.archive.hiddenfiletoggle.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/hiddenfiletoggle/dev.shroysha.archive.hiddenfiletoggle.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/mediaserver" beforeDir="false" afterPath="$PROJECT_DIR$/archive/mediaserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/mediaserver/dev.shroysha.archive.mediaserver.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/mediaserver/dev.shroysha.archive.mediaserver.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/mp3rename" beforeDir="false" afterPath="$PROJECT_DIR$/archive/mp3rename" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/mp3rename/dev.shroysha.archive.mp3rename.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/mp3rename/dev.shroysha.archive.mp3rename.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/passwordbank" beforeDir="false" afterPath="$PROJECT_DIR$/archive/passwordbank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/passwordbank/dev.shroysha.archive.passwordbank.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/passwordbank/dev.shroysha.archive.passwordbank.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-chapterproblems" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-chapterproblems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-chapterproblems/dev.shroysha.archive.school.ap-chapterproblems.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-chapterproblems/dev.shroysha.archive.school.ap-chapterproblems.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-chapterproblems/dev.shroysha.archive.school.ap-chapterproblems.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-chapterproblems/dev.shroysha.archive.school.ap-chapterproblems.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-pdfscrapper" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-pdfscrapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-pdfscrapper/dev.shroysha.archive.school.ap-pdfscrapper.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-pdfscrapper/dev.shroysha.archive.school.ap-pdfscrapper.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-pendulum" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-pendulum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-pendulum/dev.shroysha.archive.school.ap-pendulum.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-pendulum/dev.shroysha.archive.school.ap-pendulum.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-readability" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-readability" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-readability/dev.shroysha.archive.school.ap-readability.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-readability/dev.shroysha.archive.school.ap-readability.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-robocode" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-robocode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/ap-robocode/dev.shroysha.archive.school.ap-robocode.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/ap-robocode/dev.shroysha.archive.school.ap-robocode.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-firstquadrantgraph" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-firstquadrantgraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-firstquadrantgraph/dev.shroysha.archive.school.honors-firstquadrantgraph.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-firstquadrantgraph/dev.shroysha.archive.school.honors-firstquadrantgraph.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-graphing" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-graphing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-graphing/dev.shroysha.archive.school.honors-graphing.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-graphing/dev.shroysha.archive.school.honors-graphing.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-jpaint" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-jpaint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-jpaint/dev.shroysha.archive.school.honors-jpaint.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-jpaint/dev.shroysha.archive.school.honors-jpaint.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-loopexamples" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-loopexamples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/school/honors-loopexamples/dev.shroysha.archive.school.honors-loopexamples.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/school/honors-loopexamples/dev.shroysha.archive.school.honors-loopexamples.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/yahooweather" beforeDir="false" afterPath="$PROJECT_DIR$/archive/yahooweather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/yahooweather/dev.shroysha.archive.yahooweather.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archive/yahooweather/dev.shroysha.archive.yahooweather.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatroom" beforeDir="false" afterPath="$PROJECT_DIR$/chatroom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatroom/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/chatroom/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatroom/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/chatroom/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatroom/chatroom-app-client" beforeDir="false" afterPath="$PROJECT_DIR$/chatroom/chatroom-app-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatroom/chatroom-app-client/dev.shroysha.chatroom.chatroom-app-client.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chatroom/chatroom-app-client/dev.shroysha.chatroom.chatroom-app-client.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-computer" beforeDir="false" afterPath="$PROJECT_DIR$/control-computer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-computer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/control-computer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-computer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/control-computer/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-computer/control-computer-app-client" beforeDir="false" afterPath="$PROJECT_DIR$/control-computer/control-computer-app-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-computer/control-computer-app-client/dev.shroysha.control-computer.control-computer-app-client.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/control-computer/control-computer-app-client/dev.shroysha.control-computer.control-computer-app-client.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-projector" beforeDir="false" afterPath="$PROJECT_DIR$/control-projector" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-projector/dev.shroysha.control-projector.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/control-projector/dev.shroysha.control-projector.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.shroysha.buildSrc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dev.shroysha.buildSrc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.shroysha.buildSrc.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dev.shroysha.buildSrc.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.shroysha.buildSrc.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dev.shroysha.buildSrc.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.shroysha.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/dev.shroysha.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.shroysha.iws" beforeDir="false" afterPath="$PROJECT_DIR$/dev.shroysha.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glyphs" beforeDir="false" afterPath="$PROJECT_DIR$/glyphs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glyphs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/glyphs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glyphs/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/glyphs/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glyphs/glyphs-app-client" beforeDir="false" afterPath="$PROJECT_DIR$/glyphs/glyphs-app-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glyphs/glyphs-app-client/dev.shroysha.glyphs.glyphs-app-client.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/glyphs/glyphs-app-client/dev.shroysha.glyphs.glyphs-app-client.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/pokemon-app-client" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/pokemon-app-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon/pokemon-app-client/dev.shroysha.pokemon.pokemon-app-client.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon/pokemon-app-client/dev.shroysha.pokemon.pokemon-app-client.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private" beforeDir="false" afterPath="$PROJECT_DIR$/private" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scada" beforeDir="false" afterPath="$PROJECT_DIR$/scada" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scada/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/scada/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scada/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/scada/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scada/scada-app-client" beforeDir="false" afterPath="$PROJECT_DIR$/scada/scada-app-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scada/scada-app-client/dev.shroysha.scada.scada-app-client.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scada/scada-app-client/dev.shroysha.scada.scada-app-client.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scada/scada-app-client/dev.shroysha.scada.scada-app-client.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scada/scada-app-client/dev.shroysha.scada.scada-app-client.test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +194,11 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="dev.shroysha.scada.scada-war.test/invalid/Web" />
+    </ignored-facets>
+  </component>
   <component name="KonanWorkspace">
     <executables />
   </component>
@@ -176,7 +250,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RubyModuleManagerSettings">
     <option name="blackListedRootsPaths">
@@ -454,9 +528,10 @@
       <screen x="0" y="22" width="1680" height="942" />
     </state>
     <state x="371" y="112" key="RollbackChangesDialog/0.22.1680.942@0.22.1680.942" timestamp="1598072323559" />
-    <state x="349" y="132" key="SettingsEditor" timestamp="1599843690163">
-      <screen x="0" y="22" width="1680" height="942" />
+    <state x="399" y="107" key="SettingsEditor" timestamp="1602303328404">
+      <screen x="0" y="0" width="1920" height="914" />
     </state>
+    <state x="399" y="107" key="SettingsEditor/0.0.1920.914@0.0.1920.914" timestamp="1602303328404" />
     <state x="349" y="132" key="SettingsEditor/0.22.1680.942@0.22.1680.942" timestamp="1599843690163" />
     <state x="172" y="22" key="new project wizard" timestamp="1598146852823">
       <screen x="0" y="22" width="1680" height="942" />
